@@ -11,7 +11,7 @@ Jenkins & Docker for CI/CD
 💬 Let’s Collaborate
 Test automation frameworks
 CI/CD integration for automated testing
-📫 Connect: LinkedIn | GitHub
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/sameermanzur/) | [GitHub]https://github.com/sameermanzur
 
 ⚡ Fun Fact: Transitioned from Architecture to Tech & Automation! 🚀
 
