@@ -1,5 +1,5 @@
 👋 Hi, I’m Sameer Manzur
-🔹 Aspiring QA Automation Engineer | 🎯 Learning Playwright & JavaScript | 🚀 Passionate about Testing & DevOps
+🔹 Aspiring QA Automation Engineer | 🎯 Learning Playwright & TypeScript | 🚀 Passionate about Testing & DevOps
 
 👀 Interests
 Test Automation (Playwright, Selenium, Cypress)
